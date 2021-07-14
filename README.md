@@ -1,4 +1,4 @@
-##Bot used for auto moderation and some feature additions
+###Bot used for auto moderation and some feature additions
 Bot code can be seen on [Heading link](https://replit.com/@Pablo824/Fred-the-Fish#main.py "replit")
 Current uses:
 1. Delete certain messages containing blacklisted words/phrases.
