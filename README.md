@@ -1,4 +1,4 @@
-Bot used for auto moderation and some features.
+## Bot used for auto moderation and some features.
 Bot code can be seen on [replit](https://replit.com/@Pablo824/Fred-the-Fish#main.py "Fred's code").
 
 Current uses:
