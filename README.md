@@ -8,5 +8,5 @@ Current uses:
 5. ###### ~~Deletes reactions added by Jr. Moderators in #staff-votes~~
 6. ###### ~~Adds the 'Survivor' role to new users.(only given to those who have actually talked in the server)~~
 7. ###### ~~Role command for moderators.(with help from SomeCatIDK). Replaced by Terry's new '+role add' command.~~
-#Note:#
+Note:
 Fred the Fish is currently not functional and has been replaced by another discord bot.
