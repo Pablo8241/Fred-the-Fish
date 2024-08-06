@@ -9,4 +9,4 @@ Current uses:
 6. ###### ~~Adds the 'Survivor' role to new users.(only given to those who have actually talked in the server)~~
 7. ###### ~~Role command for moderators.(with help from SomeCatIDK). Replaced by Terry's new '+role add' command.~~
 Note:
-Fred the Fish is currently not functional and has been replaced by another discord bot.
+Fred the Fish is currently not functional and has been replaced other discord bots.
